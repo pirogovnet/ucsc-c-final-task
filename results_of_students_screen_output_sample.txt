@@ -1,0 +1,12 @@
+Letter grade has been calculated for students listed in input file:list_of_students.txt and written to
+output file:results_of_students.txt
+
+Here is the class averages:
+		 Q1	 Q2	 Q3	 Q4	 MidI	 MidII	 Final
+Average:	84.11	 82.44	 84.11	 85.56	 83.33	 85.78	 80.89
+Minimum:	60.00	 54.00	 38.00	 62.00	 62.00	 60.00	 50.00
+Maximum:	100.00	 99.00	 100.00	 100.00	 99.00	 100.00	 99.00
+
+
+
+Press enter key to continue...

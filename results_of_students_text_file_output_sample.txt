@@ -1,0 +1,10 @@
+Letter grade for 9 students given in list_of_students.txt file is:
+Anne Latner:			grade=B
+Ariana B. Smith:		grade=A
+Bill Gates:			grade=F
+Emily Gonzales:			grade=B
+Escobar Morris:			grade=C
+Jennifer L:			grade=B
+Maria Jones:			grade=D
+Nikolay Pirogov:		grade=A
+Thui Bhu:			grade=A
